@@ -1,0 +1,27 @@
+body {
+  background-color: #eae1df;
+}
+.title {
+  color: #3cb371;
+}
+.basic-text {
+  color: #5f6062;
+}
+.basic-input {
+  padding: 5px;
+}
+.basic-button {
+  padding: 5px;
+  border-radius: 8px;
+}
+
+/* Container */
+.basic-result-container {
+  font-size: 1.5em;
+  padding: 10px 0;
+}
+.simple-input-button {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
